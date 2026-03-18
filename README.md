@@ -17,5 +17,13 @@ Language: Python 3.
 
 Libraries: numpy, matplotlib, random.
 
-Linux Support: Includes a configuration fix for TkAgg backends to ensure smooth animation on Linux systems.
+Linux Support: Includes a configuration fix for TkAgg backends to ensure smooth animation on Linux systems
 
+To run this project locally, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/tu-usuario/nombre-del-repo.git)
+
+2. **Choose the number of cities you want to simulate**
+3. **Run the notebook**
