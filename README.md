@@ -21,7 +21,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/5inco0/Traveling-Salesman-Problem-TSP-Simulated-Annealing.git
+   git clone https://github.com/InigoPeLo/Traveling-Salesman-Problem-TSP-Simulated-Annealing.git
 2. **Install Dependencies**
 3. ```bash
    pip install -r requirements.txt
