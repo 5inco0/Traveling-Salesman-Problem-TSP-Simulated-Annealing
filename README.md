@@ -1,0 +1,21 @@
+This repository contains a Python implementation of the Traveling Salesman Problem (TSP) solved using the Simulated Annealing algorithm.
+The project features a real-time animation that visualizes how the algorithm explores the search space and converges toward an optimal route.
+It uses the Metropolis-Hastings criterion to escape local minima by occasionally accepting "worse" paths based on a cooling temperature.
+
+Dynamic Visualization: A dual-plot animation using matplotlib.animation:
+
+Route Evolution: Shows the path connecting 20 random cities as it optimizes.
+
+Convergence Plot: Tracks the total distance reduction over the iterations.
+
+Distance Matrix: Efficiently calculates Euclidean distances between all nodes using NumPy.
+
+
+Algorithm: Markov Chain Monte Carlo (MCMC) / Simulated Annealing.
+
+Language: Python 3.
+
+Libraries: numpy, matplotlib, random.
+
+Linux Support: Includes a configuration fix for TkAgg backends to ensure smooth animation on Linux systems.
+
