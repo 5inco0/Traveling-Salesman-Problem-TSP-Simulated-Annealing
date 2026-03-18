@@ -4,7 +4,7 @@ It uses the Metropolis-Hastings criterion to escape local minima by occasionally
 
 Dynamic Visualization: A dual-plot animation using matplotlib.animation:
 
-Route Evolution: Shows the path connecting 20 random cities as it optimizes.
+Route Evolution: Shows the path connecting all the cities as it optimizes.
 
 Convergence Plot: Tracks the total distance reduction over the iterations.
 
