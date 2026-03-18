@@ -13,8 +13,6 @@ Distance Matrix: Efficiently calculates Euclidean distances between all nodes us
 
 Algorithm: Markov Chain Monte Carlo (MCMC) / Simulated Annealing.
 
-Language: Python 3.
-
 Libraries: numpy, matplotlib, random.
 
 Linux Support: Includes a configuration fix for TkAgg backends to ensure smooth animation on Linux systems
@@ -29,3 +27,5 @@ To run this project locally, follow these steps:
    pip install -r requirements.txt
 2. **Choose the number of cities you want to simulate**
 3. **Run the notebook**
+
+
