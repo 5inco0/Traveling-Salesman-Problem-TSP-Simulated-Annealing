@@ -23,7 +23,9 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/tu-usuario/nombre-del-repo.git)
-
+   git clone https://github.com/5inco0/Traveling-Salesman-Problem-TSP-Simulated-Annealing.git
+2. **Install Dependencies**
+3. ```bash
+   pip install -r requirements.txt
 2. **Choose the number of cities you want to simulate**
 3. **Run the notebook**
